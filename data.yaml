@@ -1,0 +1,9 @@
+
+path: datasets
+
+train: images/train
+val: images/val
+
+names:
+  0: truck
+  1: flower
